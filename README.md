@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Dadhich</h1>
-<h3 align="center">A passionate about web developement , DS and Algo.</h3>
+<h3 align="center">A Passionate techie for MERN developer , DataStructures and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldadhich26&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldadhich26" /> </p>
 
